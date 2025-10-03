@@ -1,4 +1,4 @@
-package com;
+package psp;
 import java.util.*;
 public class Utils {
 	public static boolean isWindows() {
